@@ -1,0 +1,72 @@
+[
+  {
+    "module_code": "ops7_6",
+    "module_label": "OPS 7.6 - Goods Receipt Confirmation",
+    "module_title": "Goods Receipt Confirmation",
+    "module_slug": "goods_receipt_confirmation",
+    "app_code": "ops7",
+    "app_label": "OPS 7 - Procurement Operations",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops7_7",
+    "module_label": "OPS 7.7 - Invoice Matching (3-Way Match)",
+    "module_title": "Invoice Matching (3-Way Match)",
+    "module_slug": "invoice_matching_3_way_match",
+    "app_code": "ops7",
+    "app_label": "OPS 7 - Procurement Operations",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops7_5",
+    "module_label": "OPS 7.5 - Purchase Order Creation",
+    "module_title": "Purchase Order Creation",
+    "module_slug": "purchase_order_creation",
+    "app_code": "ops7",
+    "app_label": "OPS 7 - Procurement Operations",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops7_1",
+    "module_label": "OPS 7.1 - Purchase Requisition Creation",
+    "module_title": "Purchase Requisition Creation",
+    "module_slug": "purchase_requisition_creation",
+    "app_code": "ops7",
+    "app_label": "OPS 7 - Procurement Operations",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops7_4",
+    "module_label": "OPS 7.4 - Quote Evaluation",
+    "module_title": "Quote Evaluation",
+    "module_slug": "quote_evaluation",
+    "app_code": "ops7",
+    "app_label": "OPS 7 - Procurement Operations",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops7_2",
+    "module_label": "OPS 7.2 - Requisition Approval",
+    "module_title": "Requisition Approval",
+    "module_slug": "requisition_approval",
+    "app_code": "ops7",
+    "app_label": "OPS 7 - Procurement Operations",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops7_3",
+    "module_label": "OPS 7.3 - RFQ Issuance",
+    "module_title": "RFQ Issuance",
+    "module_slug": "rfq_issuance",
+    "app_code": "ops7",
+    "app_label": "OPS 7 - Procurement Operations",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
